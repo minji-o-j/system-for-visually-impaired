@@ -10,6 +10,6 @@ for file in file_list_xml:
   root=tree.getroot()
   path_tag=root.find("path")
   path_tag.text=""
-  tree.write(file+"out.xml",encoding="utf-8",xml_declaration=True)
+  tree.write(file,encoding="utf-8",xml_declaration=True)
  
  
