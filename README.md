@@ -10,7 +10,7 @@
 ## 개발기간
 
 ## 개발자
-김성현([@Seong-Hyun-0224](https://github.com/Seong-Hyun-0224)), 김한솔, 윤대호(~2020/06), 이혜인, 정민지
+김성현([@Seong-Hyun-0224](https://github.com/Seong-Hyun-0224)), 김한솔([@	hansol0118](https://github.com/hansol0118)), 윤대호(~2020/06), 이혜인, 정민지
 
 
 ## 목적 및 필요성
