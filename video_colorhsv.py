@@ -188,8 +188,8 @@ if __name__ == "__main__":
         plt.figure()
         #plt.figure(figsize=(10,5.625)) #plot size
         fig, ax = plt.subplots(1)
-        print("fig,ax-----")
-        print(fig,ax)
+        #print("fig,ax-----")
+        #print(fig,ax)
         #plt.figure(figsize=(10,5.625)) #plot size
         ax.imshow(img)
 
