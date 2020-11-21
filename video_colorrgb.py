@@ -28,12 +28,14 @@ def light_color(x, y, path):
     #global color
     image = Image.open(path)
     rgb_im = image.convert('RGB')
+    #print(x,y)
+    #print(np.array(rgb_im).shape)
     r, g, b = rgb_im.getpixel((int(x), int(y)))
     if r>g:
         color='red'
     else:
         color='green'
-    print(r,g,b)
+    #print(r,g,b)
     return color
 
 def max_light(light):
@@ -183,7 +185,11 @@ if __name__ == "__main__":
         #plt.figure(figsize=(10,5.625)) #plot size
         ax.imshow(img)
         og_img = Image.open(path)
+<<<<<<< Updated upstream
         
+=======
+
+>>>>>>> Stashed changes
         # Draw bounding boxes and labels of detections
         if detections is not None:
             # Rescale boxes to original image
@@ -250,6 +256,7 @@ if __name__ == "__main__":
                 y=y1
 
                 ROI=ROI_gray[int(y):int(y) + int(box_h), int(x):int(x) + int(box_w)]
+                #print('roi',ROI.shape[1],ROI.shape[0])
                 ROI_X = ROI.shape[1]
                 ROI_Y = ROI.shape[0]
                 light_position_y = -1
@@ -257,14 +264,15 @@ if __name__ == "__main__":
 
                 for i in range(0,ROI_Y):
                     for j in range(0,ROI_X):
-                        if ROI[i, j] > 100:
-                            light_position_y = j
-                            light_position_x = i
+                        if ROI[i][j] > 100:
+                            light_position_y = i
+                            light_position_x = j
 
                 if box_h > 70 or box_w >70: #수치조정필요
                     print('big')
 
                 else:
+                    #print('test',x1,light_position_x,y1,light_position_y)
                     plt.text(
                         x2,
                         y2,
