@@ -182,7 +182,8 @@ if __name__ == "__main__":
         #print(fig,ax)
         #plt.figure(figsize=(10,5.625)) #plot size
         ax.imshow(img)
-
+        og_img = Image.open(path)
+        
         # Draw bounding boxes and labels of detections
         if detections is not None:
             # Rescale boxes to original image
