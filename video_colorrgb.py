@@ -233,7 +233,7 @@ if __name__ == "__main__":
                 plt.text(
                     x1,
                     y1,
-                    s='light'+light_color(x1, y1, x2, y2,path),#classes[int(cls_pred)],
+                    s='light',#classes[int(cls_pred)],
                     color="white",
                     verticalalignment="top",
                     bbox={"color": color, "pad": 0},
