@@ -28,6 +28,10 @@ def max_light(light):
     #print('light',light)
     for i in range(0,len(light)):
         for x1, y1, x2, y2, conf, cls_conf, cls_pred in light[i]:
+            if x1<0:
+                x1=0
+            if y1<0:
+                y1=0
             if i==0: #초기선언
                 min_x1 = x1
                 max_x2 = x2
