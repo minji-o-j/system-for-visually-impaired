@@ -294,7 +294,7 @@ if __name__ == "__main__":
         
 
     fps = 24 #24 #frame per second
-    pathOut = 'output/1000_16(pretrainedX)-2.mp4'
+    pathOut = 'output/hsv.mp4'
     size=(496,279)
     out = cv2.VideoWriter(pathOut,cv2.VideoWriter_fourcc(*'DIVX'), fps, size)
     for i in range(len(imgarr)):
