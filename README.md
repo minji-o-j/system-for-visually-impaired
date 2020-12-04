@@ -26,4 +26,4 @@
 ## 결과
 ---
 # 2차 모델(20/08~20/12)
-https://www.youtube.com/watch?v=0sTkZQOse0s
+https://www.youtube.com/watch?v=AHQ358YE6tY
