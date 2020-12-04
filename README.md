@@ -18,10 +18,7 @@
 
 ---
 # 1차 모델 (20/04~20/05)
-
-## 사용 기술
-
-## 결과
+[YOLOv2](https://github.com/minji-o-j/system-for-visually-impaired/tree/master/v.1.0_YOLOv2(~200529))  
 ---
 # 2차 모델(20/08~20/12)
 https://www.youtube.com/watch?v=AHQ358YE6tY
