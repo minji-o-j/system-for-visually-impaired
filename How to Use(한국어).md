@@ -30,13 +30,21 @@ https://drive.google.com/file/d/1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT/view
 - 훈련에 사용할 Dataset: image, label 파일이 필요
 
 ### Image
-- `data/custom/images` 에 위치시킨다
+- `data/custom/` 에 `train/images` or `valid/images`에 위치시킨다
 
 ### Labels
 - `x1 y1 x2 y2` 형식의 txt파일 필요
 
 **만약 xml파일일 경우**
 - `xmltotxt.py` 이용하여 xml파일을 txt로 변환      <<출처: [`xmltotxt`](https://github.com/Isabek/XmlToTxt)  
+- out 폴더에 변환된 txt들이 저장됨
+- `data/custom/`의 `train/labels` or `valid/labels`로 이동  
 
+- 이후 `data/custom/classes.names`에 내가 훈련하고자 하는 label들을 입력
+  - **마지막 칸은 엔터를 남겨둬야지 정확히 인식됨**
+```
+crosswalk
+light
 
+```
 
