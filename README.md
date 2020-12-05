@@ -19,15 +19,25 @@
 
 
 ## 목적 및 필요성
+- 적으세요
+
+## 기대효과
+- 적으세요
 
 ## 사용 프로그램
 ![image](https://user-images.githubusercontent.com/45448731/101232065-c5982480-36f2-11eb-894f-bb80c7f722a4.png)
 ---
-## 1차 모델 (20/04~20/05): [YOLOv2](https://github.com/minji-o-j/system-for-visually-impaired/tree/master/v.1.0_YOLOv2(~200529))  
+## 사용 모델
+### 1차 모델 (20/04~20/05): [YOLOv2](https://github.com/minji-o-j/system-for-visually-impaired/tree/master/v.1.0_YOLOv2(~200529))  
+- 잘 안된 사진 넣기
+<br>
+
+### 2차 모델(20/08~20/12) : YOLOv4
 
 ---
-# 2차 모델(20/08~20/12) : YOLOv4
-
-# 시연 영상
+## 알고리즘
+---
+## 시연 영상
+- 유튜브 링크 이미지로바꿔서 넣기  
 https://www.youtube.com/watch?v=AHQ358YE6tY  
 https://youtu.be/q3KLPQ416m8  
