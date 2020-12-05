@@ -15,7 +15,7 @@
 ## 목적 및 필요성
 
 ## 사용 프로그램
-
+![image](https://user-images.githubusercontent.com/45448731/101232065-c5982480-36f2-11eb-894f-bb80c7f722a4.png)
 ---
 ## 1차 모델 (20/04~20/05): [YOLOv2](https://github.com/minji-o-j/system-for-visually-impaired/tree/master/v.1.0_YOLOv2(~200529))  
 
