@@ -27,4 +27,16 @@ https://drive.google.com/file/d/1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT/view
 
 ---
 # 4. Custom Dataset
+- 훈련에 사용할 Dataset: image, label 파일이 필요
+
+### Image
+- `data/custom/images` 에 위치시킨다
+
+### Labels
+- `x1 y1 x2 y2` 형식의 txt파일 필요
+
+**만약 xml파일일 경우**
+- `xmltotxt.py` 이용하여 xml파일을 txt로 변환      <<출처: [xmltotxt](https://github.com/Isabek/XmlToTxt)  
+
+
 
