@@ -36,7 +36,7 @@ https://drive.google.com/file/d/1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT/view
 - `x1 y1 x2 y2` 형식의 txt파일 필요
 
 **만약 xml파일일 경우**
-- `xmltotxt.py` 이용하여 xml파일을 txt로 변환      <<출처: [xmltotxt](https://github.com/Isabek/XmlToTxt)  
+- `xmltotxt.py` 이용하여 xml파일을 txt로 변환      <<출처: [`xmltotxt`](https://github.com/Isabek/XmlToTxt)  
 
 
 
