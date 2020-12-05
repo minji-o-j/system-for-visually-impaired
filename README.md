@@ -1,4 +1,5 @@
-# 시각장애인을 위한 도보환경 알리미 
+![image](https://user-images.githubusercontent.com/45448731/101200687-00c23580-36aa-11eb-9392-c89050214460.png)
+
 ---
 ![HitCount](http://hits.dwyl.com/minji-o-j/system-for-visually-impaired.svg)
 [　](https://github.com/ML-DL-Study/system-for-visually-impaired/compare/master...minji-o-j:master)
@@ -14,13 +15,13 @@
 ## 목적 및 필요성
 
 ## 사용 프로그램
+![image](https://user-images.githubusercontent.com/45448731/101232065-c5982480-36f2-11eb-894f-bb80c7f722a4.png)
+---
+## 1차 모델 (20/04~20/05): [YOLOv2](https://github.com/minji-o-j/system-for-visually-impaired/tree/master/v.1.0_YOLOv2(~200529))  
 
 ---
-# 1차 모델 (20/04~20/05)
+# 2차 모델(20/08~20/12) : YOLOv4
 
-## 사용 기술
-
-## 결과
----
-# 2차 모델(20/08~20/12)
-https://www.youtube.com/watch?v=AHQ358YE6tY
+# 시연 영상
+https://www.youtube.com/watch?v=AHQ358YE6tY  
+https://youtu.be/q3KLPQ416m8  
