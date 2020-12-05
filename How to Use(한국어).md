@@ -1,4 +1,4 @@
-# 1. install
+# 1. Install
 - 파일을 git을통해 내려받거나 zip으로 받은 후 requirements 를 다운
 ```
 git clone https://github.com/minji-o-j/system-for-visually-impaired.git
@@ -16,3 +16,15 @@ https://drive.google.com/file/d/1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT/view
 # weights
 https://drive.google.com/file/d/1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT/view
 ```
+
+---
+# 3. Pretrained test
+- `data/sample_images`에 테스트 해보고 싶은 파일들을 위치시키고 다음과 같은 코드를 입력하면 YOLOv4 기본 classes에 대한 결과를 확인 가능
+- output 폴더에 결과 파일 저장됨  
+```py
+!python detect.py
+```
+
+---
+# 4. Custom Dataset
+
