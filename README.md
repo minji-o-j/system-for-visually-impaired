@@ -64,7 +64,7 @@
 ---
 ## 사용 모델
 ### 1차 모델 (20/04~20/05): [YOLOv2](https://github.com/minji-o-j/system-for-visually-impaired/tree/master/v.1.0_YOLOv2(~200529))  
-- 잘 안된 사진 넣기
+![image](https://user-images.githubusercontent.com/61938029/101282894-f07d9800-381a-11eb-8383-0566207232e1.png)
 <br>
 
 ### 2차 모델(20/08~20/12) : YOLOv4
