@@ -1,4 +1,6 @@
 ![image](https://user-images.githubusercontent.com/45448731/101240773-bb971580-3734-11eb-8306-26d3920e593f.png)
+▲클릭하시면 소개 영상을 볼 수 있습니다.  
+
 [코드 실행 방법](https://github.com/minji-o-j/system-for-visually-impaired/blob/master/How%20to%20Use(%ED%95%9C%EA%B5%AD%EC%96%B4).md)
 
 ---
