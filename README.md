@@ -33,10 +33,7 @@
 -	하지만 2020년 서울 강북구 시각장애인 음향신호기 조사 결과 부적합 판정 **45.9%** 정도로 제대로 설치되어 있지 않은 곳이 많음.
 - 또한 한국 장애인 재활 협회 조사 결과 시각장애인 대부분이 **횡단보도 및 신호등, 음성안내 시스템 버튼의 위치 파악에 어려움**을 겪고 있으며, **횡단보도 횡단에 도움이 되는 다른 장치가 필요하다**고 응답함  
 
-![image](https://user-images.githubusercontent.com/61938029/101280932-6c71e300-380f-11eb-9f6b-617ac933f7ee.png)
-![image](https://user-images.githubusercontent.com/61938029/101280935-70056a00-380f-11eb-86fb-46cfe8078322.png)
-![image](https://user-images.githubusercontent.com/61938029/101280940-75fb4b00-380f-11eb-8fb5-95f6df5f094f.png)
-
+<img src="https://user-images.githubusercontent.com/61938029/101280932-6c71e300-380f-11eb-9f6b-617ac933f7ee.png" height="275px"/> <img src="https://user-images.githubusercontent.com/61938029/101280935-70056a00-380f-11eb-86fb-46cfe8078322.png" height="275px"/> <img src="https://user-images.githubusercontent.com/61938029/101280940-75fb4b00-380f-11eb-8fb5-95f6df5f094f.png" height="275px"/>
 
 # 복붙해서 엔터치지말고 글을 읽고 정리해줘...다시 손 안가게끔제발..ㅠㅠ
 
