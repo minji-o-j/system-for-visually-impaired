@@ -25,6 +25,7 @@
 이혜인|[@hyeinlee725](https://github.com/hyeinlee725)|~2020/08
 정민지|[@minji-o-j](https://github.com/minji-o-j)|
 
+## 프로그램 설명
 
 ## 목적 및 필요성 
 <img src="https://user-images.githubusercontent.com/61938029/101280932-6c71e300-380f-11eb-9f6b-617ac933f7ee.png" height="275px"/> <img src="https://user-images.githubusercontent.com/61938029/101280935-70056a00-380f-11eb-86fb-46cfe8078322.png" height="275px"/> <img src="https://user-images.githubusercontent.com/61938029/101280940-75fb4b00-380f-11eb-8fb5-95f6df5f094f.png" height="275px"/>
@@ -36,7 +37,7 @@
 
 
 ## 기대효과
-
+- 
 
 ## 사용 프로그램
 ![image](https://user-images.githubusercontent.com/45448731/101232065-c5982480-36f2-11eb-894f-bb80c7f722a4.png)
