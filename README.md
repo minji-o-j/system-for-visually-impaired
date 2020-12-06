@@ -64,14 +64,12 @@
 <br>
 
 ### 2차 모델(20/08~20/12) : YOLOv4
-- YOLOv4모델에 대한 설명 적는다 이미지 넣기!! <<<<<<<이미지 전에 상생보고서에 논문캡쳐한 그런거말고 모델의 구조 같은거 넣으라는말임  
-ppt에 있는 yolov4에 결합되었던것들 언급후적기 : 우리 모델 설명을 영상에서 자세히 안해서 여기서 좀 자세히?
+
+![image](https://user-images.githubusercontent.com/61938029/101286321-30e61180-382d-11eb-9c87-3d7052b07757.png)
 
 - YOLOv4: 최신기술들의 조합을 통해 만들어져 최적의 속도와 정확도를 자랑하는 모델.
   - YOLOv3 / CSPDarknet53 / SPP / PAN / BOF / BOS 등의 최신 기술 사용.
-
-- YOLOv4는 이전 YOLOv2, v3에서의 단점인 작은 크기의 object에 대한 인식을 잘 못하는 것의 해결을 위해 여러가지 기법들을 적용
-  - 이를 Bag or Freebies(BOF) / Bag of Specials(BOS)의 2가지 유형으로 나눔.
+  - YOLOv2, v3에서 작은 object에 대해 인식하지 못하는 것에 대해 Bag or Freebies(BOF) / Bag of Specials(BOS) 2가지 유형의 기술을 적용하여 해결.
 
 #### BOF
 - Data augmenation, Loss function, Regularization 등 학습에 관여하는 요소로, training cost를 증가시켜서 정확도를 높이는 방법들을 의미.
@@ -80,12 +78,7 @@ ppt에 있는 yolov4에 결합되었던것들 언급후적기 : 우리 모델 �
 - architecture 관점에서의 기법들이 주를 이루고, post processing도 포함되어 있으며, 오로지 inference cost만 증가시켜서 정확도를 높이는 기법들을 의미.
   
 #### YOLOv4 architecture
-- 기존 YOLO: 작은 object 검출x 문제
-- 해결법: input resolution 크게 사용(기존 224, 256 ==> YOLOv4는 512 사용)
-
-- layer 수를 늘려 receptive field를 물리적으로 키움.
-- 하나의 image에서 다양한 종류, 크기의 object 동시 검출 ==> 높은 표현력 필요.
-- parameter 수를 키워 표현력을 높임.
+- YOLOv4 = VOLOv3 기반 + backbone(CSPDarkNet53) + Neck(SPP, PAN) + BOF, BOS 기법 적용.
 
 ---
 ## 알고리즘
