@@ -37,6 +37,7 @@
 <점자블록 없는 횡단보도>
 
 ![image](https://user-images.githubusercontent.com/61938029/101277552-9bc92580-37f8-11eb-933e-eefaef446cdc.png)
+![image](https://user-images.githubusercontent.com/61938029/101278608-c66aac80-37ff-11eb-8297-b3ae4d7f80f3.png)
 <고장 난 음향신호기>
 
 
