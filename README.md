@@ -35,7 +35,9 @@
 -	그런데 이 점자 블록과 음향 신호기, 제대로 설치되어 있지 않은 곳이 많음.
 -	2020년 서울 강북구 시각장애인 음향신호기 조사 결과, 부적합 판정 45.9%
 
-
+![image](https://user-images.githubusercontent.com/61938029/101280932-6c71e300-380f-11eb-9f6b-617ac933f7ee.png)
+![image](https://user-images.githubusercontent.com/61938029/101280935-70056a00-380f-11eb-86fb-46cfe8078322.png)
+![image](https://user-images.githubusercontent.com/61938029/101280940-75fb4b00-380f-11eb-8fb5-95f6df5f094f.png)
 
 -	이러한 시각 장애인의 불편함과 문제를 해결하기 위해
 1. 내 앞에 있는 횡단보도와 신호등을 “알아서” 찾아주고
