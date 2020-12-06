@@ -12,10 +12,11 @@
 ![HitCount](http://hits.dwyl.com/minji-o-j/system-for-visually-impaired.svg)
 [　](https://github.com/ML-DL-Study/system-for-visually-impaired/compare/master...minji-o-j:master)
 
-
+---
 ## 개발기간
 20/04~20/12 
 
+---
 ## 개발자
 이름|Github|비고
 ----|---|---
@@ -25,8 +26,11 @@
 이혜인|[@hyeinlee725](https://github.com/hyeinlee725)|~2020/08
 정민지|[@minji-o-j](https://github.com/minji-o-j)|
 
+---
 ## 프로그램 설명
+- 
 
+---
 ## 목적 및 필요성 
 <img src="https://user-images.githubusercontent.com/61938029/101280932-6c71e300-380f-11eb-9f6b-617ac933f7ee.png" height="275px"/> <img src="https://user-images.githubusercontent.com/61938029/101280935-70056a00-380f-11eb-86fb-46cfe8078322.png" height="275px"/> <img src="https://user-images.githubusercontent.com/61938029/101280940-75fb4b00-380f-11eb-8fb5-95f6df5f094f.png" height="275px"/>
 > 고장난 음향신호기, 찾기 힘든 음향신호기의 위치
@@ -35,10 +39,14 @@
 -	하지만 2020년 서울 강북구 시각장애인 음향신호기 조사 결과 부적합 판정 **45.9%** 정도로 제대로 설치되어 있지 않은 곳이 많음.
 - 또한 한국 장애인 재활 협회 조사 결과 시각장애인 대부분이 **횡단보도 및 신호등, 음성안내 시스템 버튼의 위치 파악에 어려움**을 겪고 있으며, **횡단보도 횡단에 도움이 되는 다른 장치가 필요하다**고 응답함  
 
-
+---
 ## 기대효과
 - 
 
+---
+## 데이터 구축
+
+---
 ## 사용 프로그램
 ![image](https://user-images.githubusercontent.com/45448731/101232065-c5982480-36f2-11eb-894f-bb80c7f722a4.png)
 ---
