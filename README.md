@@ -28,8 +28,11 @@
 
 ---
 ## 프로그램 설명
-- 
-
+### "시각장애인을 위한 도보환경 알림이"
+1. 앞에 있는 횡단보도와 신호등을 **알아서** 찾아주고
+2. 신호등의 색깔까지 **알아서** 알려주고
+3. 횡단보도를 건너야 할 타이밍까지 **알아서** 알려주는
+4. 시각장애인의 안전한 도보 환경 구축을 위한 서비스입니다.
 ---
 ## 목적 및 필요성 
 <img src="https://user-images.githubusercontent.com/61938029/101280932-6c71e300-380f-11eb-9f6b-617ac933f7ee.png" height="240px"/> <img src="https://user-images.githubusercontent.com/61938029/101280935-70056a00-380f-11eb-86fb-46cfe8078322.png" height="240px"/> <img src="https://user-images.githubusercontent.com/61938029/101280940-75fb4b00-380f-11eb-8fb5-95f6df5f094f.png" height="240px"/>
@@ -58,8 +61,7 @@
 
 <img src="https://user-images.githubusercontent.com/61938029/101282894-f07d9800-381a-11eb-8383-0566207232e1.png" width="300px"/>   <img src="https://user-images.githubusercontent.com/61938029/101282941-2e7abc00-381b-11eb-9a7d-39cd680fa0c2.png" width="300px"/>
 
-# 복붙해서 엔터치지말고 글을 읽고 정리해줘...다시 손 안가게끔제발..ㅠㅠ
-- 설명
+- 위 사진처럼 성능과 정확도가 좋지 않아 다른 모델을 찾기로 함.
 
 <br>
 
