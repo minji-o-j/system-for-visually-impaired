@@ -96,12 +96,15 @@
 - architecture 관점에서의 기법들이 주를 이루고, post processing도 포함되어 있으며, 오로지 inference cost만 증가시켜서 정확도를 높이는 기법들을 의미.
   
 #### YOLOv4 architecture
-- YOLOv4 = VOLOv3 기반 + backbone(CSPDarkNet53) + Neck(SPP, PAN) + BOF, BOS 기법 적용.
+- **YOLOv4** = VOLOv3 기반 + backbone(CSPDarkNet53) + Neck(SPP, PAN) + BOF, BOS 기법 적용.
 
 ---
 ## 알고리즘
-### 신호등 색상 검출 알고리즘  
+### 신호등 색상 검출 알고리즘
+
 ### 도보 환경 알리미 알고리즘  
+![image](https://user-images.githubusercontent.com/61938029/101287890-62170f80-3836-11eb-96bf-f6cd5fd0fb55.png)
+
 ---
 ## 시연 영상
 - 유튜브 링크 이미지로바꿔서 넣기  
