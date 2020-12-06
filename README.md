@@ -32,6 +32,7 @@
 
 ![image](https://user-images.githubusercontent.com/61938029/101277513-586eb700-37f8-11eb-84a7-e6b07f126280.png)
 
+
 <점자블록 없는 횡단보도>
  
 ![image](https://user-images.githubusercontent.com/61938029/101277552-9bc92580-37f8-11eb-933e-eefaef446cdc.png)
