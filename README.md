@@ -65,7 +65,7 @@
 
 ### 2차 모델(20/08~20/12) : YOLOv4
 
-![image](https://user-images.githubusercontent.com/61938029/101286321-30e61180-382d-11eb-9c87-3d7052b07757.png)
+![image](https://user-images.githubusercontent.com/61938029/101286675-24fb4f00-382f-11eb-8430-da043070b18c.png)
 
 - YOLOv4: 최신기술들의 조합을 통해 만들어져 최적의 속도와 정확도를 자랑하는 모델.
   - YOLOv3 / CSPDarknet53 / SPP / PAN / BOF / BOS 등의 최신 기술 사용.
