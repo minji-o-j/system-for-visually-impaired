@@ -101,9 +101,19 @@
 ---
 ## 알고리즘
 ### 신호등 색상 검출 알고리즘
+- **HSV**모델 사용.
+<img src="https://user-images.githubusercontent.com/61938029/101289435-bc689e00-383f-11eb-8c48-c7e587f6c47c.png" width="300px"/>
+<img src="https://user-images.githubusercontent.com/61938029/101289440-cbe7e700-383f-11eb-818a-69d8d80e0596.png" width="300px"/>
+<img src="https://user-images.githubusercontent.com/61938029/101289546-7eb84500-3840-11eb-90cd-38d2bd386cb5.png" width="300px"/>
+
+- H, S, V 이미지 중 밝기 값인 V 이미지 이용.
+
+- 검출된 신호등의 영역 ==> 위/아래 절반으로 나누어 픽셀 값 더함 ==> 이 크기로 나누어 어떤 영역에 밝기 값이 더 많은지 판단.
+
 
 ### 도보 환경 알리미 알고리즘  
 ![image](https://user-images.githubusercontent.com/61938029/101287890-62170f80-3836-11eb-96bf-f6cd5fd0fb55.png)
+- 위 그림의 조건에 따라 각 state로 진행되는 알고리즘.
 - **state = -2**: 신호등 검출 진행 중
 - **state = -1**: 신호등 검출 진행 중
 - **state = 0**: 신호등 없음
