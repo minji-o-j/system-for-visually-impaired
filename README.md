@@ -31,8 +31,8 @@
 ### "시각장애인을 위한 도보환경 알림이"
 1. 앞에 있는 횡단보도와 신호등을 **알아서** 찾아주고
 2. 신호등의 색깔까지 **알아서** 알려주고
-3. 횡단보도를 건너야 할 타이밍까지 **알아서** 알려주는
-4. 시각장애인의 안전한 도보 환경 구축을 위한 서비스입니다.
+3. 횡단보도를 건너야 할 타이밍까지 **알아서** 알려주는  
+시각장애인의 안전한 도보 환경 구축을 위한 서비스입니다.
 ---
 ## 목적 및 필요성 
 <img src="https://user-images.githubusercontent.com/61938029/101280932-6c71e300-380f-11eb-9f6b-617ac933f7ee.png" height="240px"/> <img src="https://user-images.githubusercontent.com/61938029/101280935-70056a00-380f-11eb-86fb-46cfe8078322.png" height="240px"/> <img src="https://user-images.githubusercontent.com/61938029/101280940-75fb4b00-380f-11eb-8fb5-95f6df5f094f.png" height="240px"/>
