@@ -1,4 +1,10 @@
-![image](https://user-images.githubusercontent.com/45448731/101240773-bb971580-3734-11eb-8306-26d3920e593f.png)
+<a href="https://www.youtube.com/watch?v=qxElChg70Ck">
+  <img src=https://user-images.githubusercontent.com/45448731/101240773-bb971580-3734-11eb-8306-26d3920e593f.png">
+</a>
+▲클릭하시면 소개 영상을 볼 수 있습니다. 
+<br><br>
+ 
+
 [코드 실행 방법](https://github.com/minji-o-j/system-for-visually-impaired/blob/master/How%20to%20Use(%ED%95%9C%EA%B5%AD%EC%96%B4).md)
 
 ---
@@ -34,8 +40,8 @@
 <br>
 
 ### 2차 모델(20/08~20/12) : YOLOv4
-- YOLOv4모델에 대한 설명 간단하게 적는다
-ppt에 있는 yolov4에 결합되었던것들 언급후적기
+- YOLOv4모델에 대한 설명 적는다
+ppt에 있는 yolov4에 결합되었던것들 언급후적기 : 우리 모델 설명을 영상에서 자세히 안해서 여기서 좀 자세히?
 
 ---
 ## 알고리즘
