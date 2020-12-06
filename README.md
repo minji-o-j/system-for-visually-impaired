@@ -70,10 +70,10 @@ ppt에 있는 yolov4에 결합되었던것들 언급후적기 : 우리 모델 �
 - YOLOv4는 이전 YOLOv2, v3에서의 단점인 작은 크기의 object에 대한 인식을 잘 못하는 것의 해결을 위해 여러가지 기법들을 적용
   - 이를 Bag or Freebies(BOF) / Bag of Specials(BOS)의 2가지 유형으로 나눔.
 
-> BOF
+#### BOF
   - Data augmenation, Loss function, Regularization 등 학습에 관여하는 요소로, training cost를 증가시켜서 정확도를 높이는 방법들을 의미.
  
- > BOS
+#### BOS
   - architecture 관점에서의 기법들이 주를 이루고, post processing도 포함되어 있으며, 오로지 inference cost만 증가시켜서 정확도를 높이는 기법들을 의미.
 ---
 ## 알고리즘
