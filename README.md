@@ -50,8 +50,24 @@
 
 ---
 ## 데이터 구축
--
+1. 학습용 데이터 수집
+    - **Kaggle** 공공데이터 / google에서 내려받은 데이터 / 직접 촬영한 data
+    -총 4000장.
 
+2. 학습용 데이터 전처리(image resize)
+    - 모은 공공데이터들의 학습용 데이터로의 사용을 위한 크기 동일화.
+    - python을 이용한 이미지 크기 512x512 resize.
+    <img src="https://user-images.githubusercontent.com/61938029/101287681-16179b00-3835-11eb-8d5d-fad6f0e8c413.png" width="500px"/>
+
+3. Data Labeling
+    - 각각의 이미지에 대해 횡단보도, 신호등 영역을 라벨링 해 위치 지정.
+    - 라벨링한 데이터에 대해 대응되는 4000개의 xml파일까지 자동으로 생성되는 효율적인 라벨링 프로그램 이용.
+    <img src="https://user-images.githubusercontent.com/61938029/101287684-1fa10300-3835-11eb-8dd5-9203e5e91e76.png" width="500px"/>
+
+4. Dataset 구성
+    - 위 과정들을 통해 resize된 4000장의 이미지 파일(image)과 대응되는 4000장의 xml 파일(annotation)이 최종 Dataset.
+    - 80%: 학습용 데이터(train)로 사용 / 20%: 검증용 데이터(val)로 사용.
+    ![image](https://user-images.githubusercontent.com/61938029/101287692-2fb8e280-3835-11eb-933b-05e6183fd339.png)
 ---
 ## 사용 프로그램
 ![image](https://user-images.githubusercontent.com/45448731/101232065-c5982480-36f2-11eb-894f-bb80c7f722a4.png)
