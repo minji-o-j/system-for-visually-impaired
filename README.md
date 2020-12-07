@@ -52,11 +52,14 @@
 ---
 ## 데이터 구축
 1. 학습용 데이터 수집
-- **Kaggle** 공공데이터 / google에서 내려받은 데이터 / 직접 촬영한 data
-- 총 4000장.
+- 약 **4000**장
+  - Kaggle
+  - google 크롤링 데이터
+  - 직접 촬영한 data
+
 
 2. 학습용 데이터 전처리(image resize)
-- 모은 공공데이터들의 학습용 데이터로의 사용을 위한 크기 동일화.
+- 모은 데이터들을 학습용 데이터로 사용하기 위한 크기 동일화.
 - python을 이용한 이미지 크기 512x512 resize.
 <img src="https://user-images.githubusercontent.com/61938029/101287681-16179b00-3835-11eb-8d5d-fad6f0e8c413.png" width="500px"/>
 
