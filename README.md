@@ -123,8 +123,12 @@
 
 ---
 ## 시연 영상
-<img src="https://user-images.githubusercontent.com/61938029/101289718-93e1a380-3841-11eb-81cc-546f7c786f71.png" width="500px"/>
-https://www.youtube.com/watch?v=AHQ358YE6tY  
-<img src="https://user-images.githubusercontent.com/61938029/101289753-c7243280-3841-11eb-9f81-f062c24020eb.png" width="500px"/>
-https://youtu.be/q3KLPQ416m8  
+<a href="https://www.youtube.com/watch?v=AHQ358YE6tY">
+  <img src="https://user-images.githubusercontent.com/61938029/101289718-93e1a380-3841-11eb-81cc-546f7c786f71.png" width="700px"/>
+</a>
+
+<a href="https://youtu.be/q3KLPQ416m8">
+  <img src="https://user-images.githubusercontent.com/61938029/101289753-c7243280-3841-11eb-9f81-f062c24020eb.png" width="700px"/>
+</a>
+
 
