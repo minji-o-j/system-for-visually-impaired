@@ -84,7 +84,7 @@
 
 <img src="https://user-images.githubusercontent.com/61938029/101282894-f07d9800-381a-11eb-8383-0566207232e1.png" width="300px"/>   <img src="https://user-images.githubusercontent.com/61938029/101282941-2e7abc00-381b-11eb-9a7d-39cd680fa0c2.png" width="300px"/>
 
-- 위 사진처럼 성능과 정확도가 좋지 않아 다른 모델을 찾기로 함.
+- 위 사진처럼 성능이 좋지 않은 경우가 종종 발생하여 다른 모델을 찾기로 함.
 
 <br>
 
